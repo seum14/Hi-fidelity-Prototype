@@ -33,4 +33,4 @@ Read the document for the design rationale and evaluation, or download and extra
 
 ---
 
-[View my portfolio](https://github.com/seum14) · [Connect on LinkedIn](https://www.linkedin.com/in/seum14/)
+[View my portfolio](https://github.com/seum14)
